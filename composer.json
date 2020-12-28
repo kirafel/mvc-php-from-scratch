@@ -1,0 +1,17 @@
+{
+    "name": "haithemdaoud/mvc",
+    "authors": [
+        {
+            "name": "Haithemdd",
+            "email": "haihtemdaoud.software@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
